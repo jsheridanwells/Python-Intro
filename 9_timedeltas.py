@@ -42,5 +42,5 @@ if april_fools < hoy_dia:
 
 # Now calculate the amount of time until April Fool's Day
 time_to_april_fools = april_fools - hoy_dia
-print("it's just ", time_to_april_fools, "'til april fools")
+print("it's just ", time_to_april_fools.days, "days 'til april fools")
 
